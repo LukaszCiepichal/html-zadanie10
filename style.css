@@ -1,0 +1,26 @@
+body {
+    background-color: #808080;
+}
+
+h1 {
+    color: white;
+}
+
+.przyklad {
+    background-color: #fea500;
+}
+.przyklad1 {
+    background-color: #fea500;
+}
+
+.przyklad2 {
+    background-color: #fea500;
+}
+
+.przyklad3 {
+    background-color: #fea500;
+}
+div, p {
+    width: 100px;
+    height: 100px;
+}
